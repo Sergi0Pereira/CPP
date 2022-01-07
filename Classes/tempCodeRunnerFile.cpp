@@ -1,1 +1,0 @@
-cout << "\nO seu nome e "<< pnome << ".A sua idade  de " << pidade << ".";
